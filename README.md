@@ -1,12 +1,15 @@
-<h1 align="center">Hi there, I'm Ajay</h1>
+<h1 align="center">Hi there, I'm <a href="https://ajybr-sh.vercel.app/">Ajay</a></h1>
 
 Final year undergrad student who loves problem solving, math and computer science.  
 Most experienced in full-stack web development.
 
 If you're working on something cool or just want to chat tech,  
-feel freeee to reach out — I'd love to connect!
+feel free to reach out!
 
-## My favorite tools and technologies
+![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-light-mode-only)
+
+<!-- ## My favorite tools and technologies
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -81,10 +84,10 @@ feel freeee to reach out — I'd love to connect!
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-   <!-- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://images.icon-icons.com/2389/PNG/512/socket_io_logo_icon_144874.png" alt="icon" width="65" height="65" />
       <br>socket.io
-    </td> -->
+    </td> 
     <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/353464/azure.svg" alt="azure" width="65" height="65" />
       <br>Azure
@@ -110,9 +113,9 @@ feel freeee to reach out — I'd love to connect!
  <tr>
  </tr>
 </table>
-</div>
-
-### 📈 GitHub Activity Graph:
+</div> -->
+     
+### GitHub Activity Graph:
 
 <p align="center">
   <a href="https://github.com/ajybr">
@@ -195,11 +198,11 @@ feel freeee to reach out — I'd love to connect!
       -->
 
 
-<details>
+<!-- <details>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=ajybr&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
+</details> -->
 
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
