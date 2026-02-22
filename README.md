@@ -18,10 +18,12 @@ feel free to reach out!
     />
 </p>
 
+<details>
+  <summary>
+    #### my tools and technologies
+  </summary>
 
-<!-- ## My favorite tools and technologies
-
-> Tools and technologies that I have worked with and am interested in
+> list of tools and technologies (not exhaustive) that I work with and am interested in
 
 <div align="center">
 <table>
@@ -94,10 +96,10 @@ feel free to reach out!
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://images.icon-icons.com/2389/PNG/512/socket_io_logo_icon_144874.png" alt="icon" width="65" height="65" />
       <br>socket.io
-    </td> 
+    </td>  -->
     <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/353464/azure.svg" alt="azure" width="65" height="65" />
       <br>Azure
@@ -123,8 +125,10 @@ feel free to reach out!
  <tr>
  </tr>
 </table>
-</div> -->
-     
+</div> 
+
+</details>
+
 ### GitHub Activity Graph:
 
 <p align="center">
