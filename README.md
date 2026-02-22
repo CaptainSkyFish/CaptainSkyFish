@@ -8,10 +8,16 @@ feel free to reach out!
 
 
 <p align="center">
-  
-![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+  <a href="https://github.com/ajybr">
+    <img align="center"
+         height="150em"
+         src="https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-dark-mode-only"
+    />
+  <a href="https://github.com/ajybr">
+    <img align="center"
+         height="150em"
+         src="https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/languages.svg#gh-dark-mode-only"
+    />
 </p>
 
 
