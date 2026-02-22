@@ -20,7 +20,7 @@ feel free to reach out!
 
 <details>
   <summary>
-    #### my tools and technologies
+    | my tools and technologies
   </summary>
 
 > list of tools and technologies (not exhaustive) that I work with and am interested in
