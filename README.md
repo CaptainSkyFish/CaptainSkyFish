@@ -7,7 +7,8 @@ If you're working on something cool or just want to chat tech,
 feel free to reach out!
 
 ![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- ## My favorite tools and technologies
 
