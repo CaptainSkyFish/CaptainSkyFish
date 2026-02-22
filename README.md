@@ -10,12 +10,10 @@ feel free to reach out!
 <p align="center">
   <a href="https://github.com/ajybr">
     <img align="center"
-         height="150em"
          src="https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-dark-mode-only"
     />
   <a href="https://github.com/ajybr">
     <img align="center"
-         height="150em"
          src="https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/languages.svg#gh-dark-mode-only"
     />
 </p>
@@ -215,6 +213,3 @@ feel free to reach out!
   <br/>
   <img src="https://komarev.com/ghpvc/?username=ajybr&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details> -->
-
-
-<h2 align="center"> Thanks for visiting my profile. </h2>
