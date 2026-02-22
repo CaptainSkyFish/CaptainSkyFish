@@ -6,9 +6,14 @@ Most experienced in full-stack web development.
 If you're working on something cool or just want to chat tech,  
 feel free to reach out!
 
-![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
 
+<p align="center">
+  
+![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ajybr/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</p>
+
 
 <!-- ## My favorite tools and technologies
 
